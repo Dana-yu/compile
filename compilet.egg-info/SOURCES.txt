@@ -1,0 +1,8 @@
+README.md
+setup.py
+compilet.egg-info/PKG-INFO
+compilet.egg-info/SOURCES.txt
+compilet.egg-info/dependency_links.txt
+compilet.egg-info/top_level.txt
+compiletest/__init__.py
+compiletest/name.py
